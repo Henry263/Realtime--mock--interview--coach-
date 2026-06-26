@@ -156,14 +156,6 @@ POST /api/coach/check-question
 
 ---
 
-##  Credits
-
-Built by **Buddha Kharel**
-
-* [LinkedIn](https://www.linkedin.com/in/buddha-kharel-76449a181/)
-* [GitHub](https://github.com/buddha2042)
-* [Video] (https://youtu.be/mhrPrZGJyDY?si=3V-jTuU9m1LGdA1Y)
----
 
 ## Contributing
 
